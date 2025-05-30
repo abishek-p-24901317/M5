@@ -68,7 +68,7 @@ return n * calculateProduct(n - 1);
 }
 int main() {
 int n = 12;
-printf("The product of the first 12 natural numbers is: %llu\n", produc
+printf("The product of the first 12 natural numbers is: %llu\n", product")
 return 0;
 }
 ```
